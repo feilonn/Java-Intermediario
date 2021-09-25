@@ -15,5 +15,6 @@ public class Teste {
 			e.printStackTrace();
 		}
 		
+		System.out.println("\n\nTeste");
 	}
 }
